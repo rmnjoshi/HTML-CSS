@@ -19,7 +19,7 @@ body{
 .box-1{
 	background-color: #333333;
 	color: #fff;
-	border: 5px orange; solid;
+	border: 5px orange solid;
 	border-radius: 15px;
 	border-width: 4px;
 	border-style: dotted;
